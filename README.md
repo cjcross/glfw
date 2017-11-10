@@ -3,6 +3,7 @@
 [![Build status](https://travis-ci.org/glfw/glfw.svg?branch=master)](https://travis-ci.org/glfw/glfw)
 [![Build status](https://ci.appveyor.com/api/projects/status/0kf0ct9831i5l6sp/branch/master?svg=true)](https://ci.appveyor.com/project/elmindreda/glfw)
 [![Coverity Scan](https://scan.coverity.com/projects/4884/badge.svg)](https://scan.coverity.com/projects/glfw-glfw)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fglfw.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fglfw?ref=badge_shield)
 
 ## Introduction
 
@@ -433,3 +434,7 @@ skills.
  - All the unmentioned and anonymous contributors in the GLFW community, for bug
    reports, patches, feedback, testing and encouragement
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fglfw.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fglfw?ref=badge_large)
